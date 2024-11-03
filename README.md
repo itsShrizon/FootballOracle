@@ -51,15 +51,7 @@ Ensure you have Python 3.7 or later installed on your system.
    pip install -r requirements.txt
    ```
 
-### Usage
 
-To run the FootballOracle system:
-
-1. Prepare your data in the required format (CSV, JSON, or as specified in the data processing scripts).
-2. Run the main script:
-   ```
-   python football_oracle.py
-   ```
 
 
 
